@@ -1,4 +1,4 @@
-# NextJs Tailwind Starter
+# NextJs Tailwind Starter with linting
 
 - NextJs
 - Tyescript
